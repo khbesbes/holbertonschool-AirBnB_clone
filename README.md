@@ -9,7 +9,7 @@ This project is a command-line interface for an AirBnB clone. It allows users to
 - Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/OmarElati/holbertonschool-AirBnB_clone.git
+git clone https://github.com/khbesbes/holbertonschool-AirBnB_clone.git
 ```
 - Navigate into the directory:
 
@@ -76,7 +76,7 @@ create
 - Update a User object's email attribute:
 
 ```sql
-(hbnb) update User 1234-1234-1234
+(hbnb) update User 1234-1234-1234 email "5786@holbertonstudents.com"
 ```
 - Delete a User object:
 
